@@ -23,4 +23,4 @@ Este proyecto consiste en obtener un Panel de Control con los datos de streaming
 
 [Prime Video](https://github.com/ntr94/Dashboard_PrimeVideo)
 
-
+[Disney Plus](https://github.com/ntr94/Dashboard_Disney_plus)
